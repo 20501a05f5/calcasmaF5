@@ -1,0 +1,18 @@
+{
+    "name":"calculatorF5",
+    "version": "0.1.0",
+    "main": "calcF5",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/20501a05f5/calcasmaF5"
+    },
+    "keywords": [
+        "calc",
+        "calcf5","calculator"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node":"*"
+    }
+    
+}
